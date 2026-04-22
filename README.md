@@ -34,3 +34,14 @@ python inference_benchmark.py
 
 ## Notes
 - Automatically falls back to CPU if GPU (MPS) is unavailable
+
+## Results
+
+- Average inference latency: XX ms
+- Batch size: 8
+- Device: CPU / Apple MPS
+
+Example output:
+Image: dog.jpg  
+1. Labrador Retriever: 92.3%  
+2. Golden Retriever: 5.1%
