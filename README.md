@@ -1,4 +1,4 @@
-# cautious-invention
+# ai-inference-benchmark
 PyTorch image classification inference + latency benchmarking
 # AI Image Inference & Benchmarking (PyTorch)
 
